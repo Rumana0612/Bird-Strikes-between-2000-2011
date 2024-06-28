@@ -37,18 +37,18 @@ Steps taken to clean the data:
 5. **Geographical Distribution**:
    
 
-##conclusion
+## Conclusion
 - Total bird strikes reported: 1,995
 - Year with the most strikes: 2010 (250 incidents)
 - Most affected airline: American Airlines (300 strikes)
 - Total economic cost: $20,000,00
   
-##Recommendations
+## Recommendations
 - Implement advanced bird detection systems at airports.
 - Increase pilot training for bird strike awareness and response.
 - Enhance wildlife management practices around airports.
 
-##Future Work
+## Future Work
 - Extend the analysis to include more recent data.
 - Develop predictive models to anticipate and mitigate bird strike risks.
 - Investigate the impact of different bird species on strike severity.
